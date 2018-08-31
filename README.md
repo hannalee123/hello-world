@@ -5,3 +5,5 @@ Hello my name is hanna!!
 I like food and fast cars!
 
 Gage is awesome!
+
+Gage THINKS he's awesome :)
